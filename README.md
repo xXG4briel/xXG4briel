@@ -16,11 +16,9 @@ Here are some ideas to get you started:
 -->
 
 
-- I am 18 years old.
-- I Love Python and now I started study JavaScript.
-- I am study of Engineer.
-- I am study of Engineer.
-- I am study of Engineer.
-- I am study of Engineer.
-- I am study of Engineer.
-- ⚡ Fun fact: I think on the most profession like be Teacher, singer and Pro Player.
+- 👶🏻 Age:        I am 18 years old.
+- 🎲 Languanges: Python, C/C++, JavaScript, HTML5, CSS3.
+- 📚 College:    I am study of Engineer.
+- 🌱 I’m currently learning: MySQL, TypeScript, Angular/Ionic.
+- ⚡ Fun fact: I thinked  a lot profession like Teacher, singer and pro player, but now I job with developing and I will be a good Engineer.
+- 📫 How to reach me:
