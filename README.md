@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 
 
-- I am study of Engineer.
-- I am study of Engineer.
+- I am 18 years old.
+- I Love Python and now I started study JavaScript.
 - I am study of Engineer.
 - I am study of Engineer.
 - I am study of Engineer.
