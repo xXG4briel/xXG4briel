@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![Youtube Badge]]
 
 - 👶🏻 Age:        I am 18 years old.
 - 🎲 Languanges: Python, C/C++, JavaScript, HTML5, CSS3.
