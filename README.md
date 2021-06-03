@@ -7,7 +7,7 @@
 - 👶🏻 Age:        I am 18 years old.
 - 🎲 Languanges: Python, C/C++, JavaScript, HTML5, CSS3.
 - 📚 College:    I am study of Engineering.
-- 🌱 I’m currently learning: MySQL, TypeScript, Angular/Ionic.
+- 🌱 I’m currently learning: TypeScript, Angular/Ionic.
 - ⚡ Fun fact: I thinked  a lot profession like Teacher, singer and pro player, but now I job with developing and I will be a good Engineer.
 - 📫 About me:
 
