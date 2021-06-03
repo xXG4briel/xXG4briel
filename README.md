@@ -5,15 +5,13 @@
 -->
 
 - 👶🏻 Age:        I am 18 years old.
-<!--
 - 🎲 Languanges: Python, C/C++, JavaScript, HTML5, CSS3.
 - 📚 College:    I am study of Engineering.
 - 🌱 I’m currently learning: MySQL, TypeScript, Angular/Ionic.
 - ⚡ Fun fact: I thinked  a lot profession like Teacher, singer and pro player, but now I job with developing and I will be a good Engineer.
-- 📫 How to reach me:
--->
+- 📫 About me:
 
-## Oiii! Eu sou o Gabriel
+
  <div>
   <a href="https://github.com/xXG4briel">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=xXG4briel&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
