@@ -5,9 +5,7 @@
 -->
 
 - 👶🏻 Age:        I was born on 2002.
-<-- 🎲 Languanges: Python, C/C++, JavaScript, HTML5, CSS3. -->
 - 📚 College: I am study of Computer Engineering.
-<-- 🌱 I’m ecurrently learning !. -->
 - ⚡ Fun fact: I thinked  a lot profession like Teacher, singer and pro player, but now I job with developing and I will be a good Engineer.
 - 📫 About me:
 
