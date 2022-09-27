@@ -4,17 +4,17 @@
 **xXG4briel/xXG4briel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 👶🏻 Age:        I am 19 years old.
-- 🎲 Languanges: Python, C/C++, JavaScript, HTML5, CSS3.
-- 📚 College:    I am study of Engineering.
-- 🌱 I’m currently learning: TypeScript, Angular/Ionic.
+- 👶🏻 Age:        I was born on 2002.
+<-- 🎲 Languanges: Python, C/C++, JavaScript, HTML5, CSS3. -->
+- 📚 College: I am study of Computer Engineering.
+<-- 🌱 I’m ecurrently learning !. -->
 - ⚡ Fun fact: I thinked  a lot profession like Teacher, singer and pro player, but now I job with developing and I will be a good Engineer.
 - 📫 About me:
 
 
  <div>
   <a href="https://github.com/xXG4briel">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=xXG4briel&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
+  <-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=xXG4briel&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/> -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xXG4briel&layout=compact&langs_count=16&theme=onedark"/>
 <div>
 <div style="display: inline_block"><br>
