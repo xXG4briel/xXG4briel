@@ -12,8 +12,7 @@
 
  <div>
   <a href="https://github.com/xXG4briel">
-   <img src="https://imgur.com/Vyqq58G">
-   <img height="180em" src="https://i.imgur.com/Vyqq58G.mp4"/>
+   <iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p>
 <div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Gabriel-Py" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
