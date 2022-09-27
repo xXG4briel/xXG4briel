@@ -13,7 +13,7 @@
  <div>
   <a href="https://github.com/xXG4briel">
    <img src="https://imgur.com/Vyqq58G">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xXG4briel&layout=compact&langs_count=16&theme=onedark"/>
+   <img height="180em" src="https://i.imgur.com/Vyqq58G.mp4"/>
 <div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Gabriel-Py" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
