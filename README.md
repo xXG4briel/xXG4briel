@@ -10,7 +10,8 @@
 - 📫 About me:
 
 
- <div>
+ <div>![e426702edf874b181aced1e2fa5c6cde](https://user-images.githubusercontent.com/62632117/192659509-14c12531-02a5-41f0-bee2-5e9ea702bcb9.gif)
+
   <a href="https://github.com/xXG4briel"></a>
  </p>
 <div>
