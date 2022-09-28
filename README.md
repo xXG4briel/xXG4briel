@@ -10,7 +10,6 @@
 - 📫 About me:
 
 <div>
-![code](https://user-images.githubusercontent.com/62632117/192659614-27e8d8c7-6e1f-4612-aa7b-82b5d14a1c3d.gif)
 <img src="https://user-images.githubusercontent.com/62632117/192659614-27e8d8c7-6e1f-4612-aa7b-82b5d14a1c3d.gif">
 </div>
 
