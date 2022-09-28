@@ -7,7 +7,6 @@
 - 👶🏻 Age:        I was born on 2002.
 - 📚 College: I am study of Computer Engineering.
 - ⚡ Fun fact: I thinked  a lot profession like Teacher, singer and pro player, but now I job with developing and I will be a good Engineer.
-- 📫 About me:
 
 <div>
 <img src="https://user-images.githubusercontent.com/62632117/192659614-27e8d8c7-6e1f-4612-aa7b-82b5d14a1c3d.gif">
