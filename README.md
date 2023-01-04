@@ -1,12 +1,13 @@
 ```ts
-   const me = {
-            "Skills": "Penetration Tester, Back-end Developer",
-        "Main_Langs": "Go, ShellScript, Python",
+   var me = {
+            "Skills": "Full Stack Developer, UI/UX",
+        "Main_Langs": "Python, C#",
       "Casual_Langs": "C, C++", 
-         "Web_Langs": "Javascript, PHP , SQL",
+         "Web_Langs": "Javascript, Typescript",
+         "Databes": "MySQL, DynamoDB",
           "Services": "Apache",
-              "Tech": "Git, Docker, NodeJs",
-                "SO": "Gentoo",
+              "Tech": "Git, NodeJs",
+                "SO": "Arch, Windows",
     };
 
 ```
