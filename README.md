@@ -9,7 +9,7 @@
          "Databes": "MySQL, DynamoDB",
           "Services": "Apache",
               "Tech": "Git, NodeJs",
-                "SO": "Arch, Windows",
+                "SO": "Arch ( study ) , Windows",
     };
 
 ```
