@@ -1,5 +1,5 @@
-```py
-   Me = {
+```ts
+   const me = {
             "Skills": "Penetration Tester, Back-end Developer",
         "Main_Langs": "Go, ShellScript, Python",
       "Casual_Langs": "C, C++", 
