@@ -6,7 +6,7 @@
         "Main_Langs": "Python, C#",
       "Casual_Langs": "C, C++", 
          "Web_Langs": "Javascript, Typescript",
-         "Databes": "MySQL, DynamoDB",
+         "Databases": "MySQL, DynamoDB",
           "Services": "Apache",
               "Tech": "Git, NodeJs",
                 "SO": "Arch ( study ) , Windows",
