@@ -1,3 +1,6 @@
+# Hi, I"m Gabriel 👋
+Currently I"m a Junior Developer and UI/UX student. I am able to develop applications, databases and APIS.
+
 
 ## 👨🏻‍💻 About Me
 ```ts
