@@ -1,5 +1,4 @@
 <h1 style="text-align: center;">Hi, I'm Gabriel 👋</h1>
-![e426702edf874b181aced1e2fa5c6cde](./e426702edf874b181aced1e2fa5c6cde.gif)
 
 <br/>
 
