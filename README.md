@@ -1,5 +1,5 @@
 <h1 style="text-align: center;">Hi, I'm Gabriel 👋</h1>
-![image](https://user-images.githubusercontent.com/62632117/211587676-39494654-28fd-4715-9c68-48b60e08c98b.png)
+![e426702edf874b181aced1e2fa5c6cde](./e426702edf874b181aced1e2fa5c6cde.gif)
 
 <br/>
 
