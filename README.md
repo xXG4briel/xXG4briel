@@ -1,8 +1,9 @@
 <h1 style="text-align: center;">Hi, I'm Gabriel 👋</h1>
+
+## ♠ About Me
 Currently I"m a Junior Developer and UI/UX student. I am able to develop applications, databases and APIS.
 
-
-## 👨🏻‍💻 About Me
+## 👨🏻‍💻 Skills
 ```ts
    var me = {
             "Skills": "Full Stack Developer, UI/UX",
