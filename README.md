@@ -9,13 +9,13 @@ Currently I"m a Junior Developer and UI/UX student. I am able to develop applica
 ```ts
    var me = {
             "Skills": "Full Stack Developer, UI/UX",
-        "Main_Langs": "Javascript, Typescript, Python, C#",
+        "Main_Langs": "Javascript/Typescript, Python, C#",
       "Casual_Langs": "C, C++", 
          "Web_Langs": "Javascript, Typescript",
-         "Databases": "MySQL, DynamoDB",
+         "Databases": "MySQL, PostgreSQL, DynamoDB",
           "Services": "AWS",
               "Tech": "Git, NodeJs",
-                "SO": "Arch ( study ) , Windows",
+                "SO": "Ubuntu",
     };
 
 ```
