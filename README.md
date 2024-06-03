@@ -2,9 +2,6 @@
 
 <br/>
 
-## ♠ About Me
-Currently I"m a Junior Developer and UI/UX student. I am able to develop applications, databases and APIS.
-
 ## 👨🏻‍💻 Skills
 ```ts
    var me = {
@@ -12,10 +9,10 @@ Currently I"m a Junior Developer and UI/UX student. I am able to develop applica
         "Main_Langs": "Javascript/Typescript, Python, C#",
       "Casual_Langs": "C, C++", 
          "Web_Langs": "Javascript, Typescript",
-         "Databases": "MySQL, PostgreSQL, DynamoDB",
+         "Databases": "MySQL, PostgreSQL, DynamoDB, Mongo DB",
           "Services": "AWS",
-              "Tech": "Git, NodeJs",
-                "SO": "Ubuntu",
+              "Tech": "Git, RabbitMQ, Docker, Linux",
+                "SO": "Linux Mint",
     };
 
 ```
