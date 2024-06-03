@@ -1,7 +1,7 @@
 ## 👨🏻‍💻 Skills
 ```ts
    var me = {
-            "Skills": "Full Stack Developer, UI/UX",
+            "Skills": "Full Stack Developer",
         "Main_Langs": "Javascript/Typescript, Python, C#",
       "Casual_Langs": "C, C++", 
          "Web_Langs": "Javascript, Typescript",
