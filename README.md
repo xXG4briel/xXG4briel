@@ -1,7 +1,3 @@
-<div style="text-align: center;"><h1>Hi, I'm Gabriel 👋</h1></div>
-
-<br/>
-
 ## 👨🏻‍💻 Skills
 ```ts
    var me = {
