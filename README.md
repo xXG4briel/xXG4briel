@@ -8,7 +8,7 @@
          "Databases": "MySQL, PostgreSQL, DynamoDB, Mongo DB",
           "Services": "AWS",
               "Tech": "Git, RabbitMQ, Docker, Linux, Kubernetes",
-                "SO": "Linux Mint",
+                "SO": "Ubuntu",
     };
 
 ```
